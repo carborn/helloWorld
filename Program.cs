@@ -11,6 +11,7 @@ namespace hellogit
         {
             Console.WriteLine("hello git");
             Console.WriteLine("My first Push");
+            Console.WriteLine("Add");
             Console.ReadLine();
         }
     }
