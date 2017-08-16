@@ -10,6 +10,7 @@ namespace hellogit
         static void Main(string[] args)
         {
             Console.WriteLine("hello git");
+            Console.WriteLine("My first Push");
             Console.ReadLine();
         }
     }
